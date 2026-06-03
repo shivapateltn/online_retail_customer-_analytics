@@ -4,7 +4,7 @@ Project Summary
 
 This project analyzes customer purchasing behavior, revenue trends, customer lifetime value (CLV), customer retention, and product performance using the Online Retail dataset.
 
-The objective of this project is to transform raw transactional data into meaningful business insights through data analysis, customer segmentation, retention analysis, and interactive dashboards.
+The objective of this project is to transform raw retail sales data into meaningful business insights through data analysis, customer segmentation, retention analysis, and interactive dashboards.
 
 Project Tools
 
